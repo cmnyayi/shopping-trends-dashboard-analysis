@@ -61,8 +61,7 @@ Visualizations
 # Power BI Dashboard
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8a0aedb8-abbe-47cc-afa9-c9f3c9b39075" />
 
-
-#Looker Studio Dashboard
+# Looker Studio Dashboard
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/19140f5c-0220-43f8-9c67-e7cffd0c428c" />
 
 
